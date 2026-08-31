@@ -168,7 +168,12 @@ export default function Home() {
             <a className="cta" href="#cases">
               View Work <span>↘</span>
             </a>
-            <a className="cta" href="/resume.pdf">
+            <a
+              className="cta"
+              href="https://drive.google.com/file/d/1WRTOlzDpV0a81l6mDUe6ORZbGI6E2vEA/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
               Resume <span>↗</span>
             </a>
             <a
@@ -457,6 +462,14 @@ export default function Home() {
               Email <small>MAILTO ↗</small>
             </a>
             <CopyEmail />
+            <a
+              className="contact-link"
+              href="https://drive.google.com/file/d/1WRTOlzDpV0a81l6mDUe6ORZbGI6E2vEA/view?usp=sharing"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Resume <small>GOOGLE DRIVE ↗</small>
+            </a>
             <a
               className="contact-link"
               href="https://leetcode.com/u/priyankar_majumdar"
