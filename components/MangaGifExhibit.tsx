@@ -22,14 +22,6 @@ export function MangaGifExhibit() {
 
   return (
     <div className="relative border border-white/10 bg-[#0a0a0c] p-4 sm:p-6 overflow-hidden my-8 group">
-      {/* Manga Background Watermark Halftones */}
-      <div className="absolute -right-8 -bottom-10 text-white/[0.03] font-display font-black text-8xl select-none pointer-events-none tracking-tighter">
-        怒り
-      </div>
-      <div className="absolute top-4 left-1/3 text-amber/[0.04] font-display font-black text-6xl select-none pointer-events-none">
-        ばかやろう
-      </div>
-
       {/* Top Dossier Exhibit Header */}
       <div className="flex flex-wrap items-center justify-between gap-3 border-b border-white/10 pb-3 mb-4">
         <div className="flex items-center gap-2.5">
