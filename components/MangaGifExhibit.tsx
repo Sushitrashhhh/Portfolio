@@ -37,8 +37,8 @@ export function MangaGifExhibit() {
         <div className="flex items-center gap-3">
           <div className="font-mono text-[10px] text-muted tracking-wider">
             KI LEVEL:{' '}
-            <span className="text-amber font-bold">
-              {power.toLocaleString()}
+            <span className="text-amber font-bold" suppressHydrationWarning>
+              {power.toLocaleString('en-US')}
             </span>
           </div>
           <button
