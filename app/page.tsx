@@ -170,7 +170,7 @@ export default function Home() {
             </a>
             <a
               className="cta"
-              href="https://drive.google.com/file/d/1WRTOlzDpV0a81l6mDUe6ORZbGI6E2vEA/view?usp=sharing"
+              href="https://drive.google.com/file/d/1K0F3kKYIcjdr901Ekwt9rZx11q8k2cbO/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
